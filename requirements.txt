@@ -4,3 +4,4 @@ EbookLib >= 0.17.1, < 0.18.0
 requests >= 2.24.0, < 3.0.0
 selenium >= 3.141.0, < 4.0.0
 selenium-wire >= 2.1.0, < 3.0.0
+undetected-chromedriver
